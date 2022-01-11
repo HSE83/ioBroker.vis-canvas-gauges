@@ -1,13 +1,14 @@
 {
   "name": "iobroker.vis-canvas-gauges",
   "description": "canvas-gauges Widgets for ioBroker.vis",
-  "version": "0.1.5",
+  "version": "0.2.0",
   "author": {
-    "name": "bluefox",
-    "email": "dogafox@gmail.com"
+    "name": "HSE",
+    "email": "hse@hagemeier.org"
   },
   "contributors": [
-    "bluefox <dogafox@gmail.com>"
+    "bluefox <dogafox@gmail.com>",
+	"HSE <hse@hagemeier.org>"
   ],
   "homepage": "https://github.com/ioBroker/ioBroker.vis-canvas-gauges",
   "repository": {

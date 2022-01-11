@@ -3,6 +3,10 @@
         "name": "vis-canvas-gauges",
         "version": "0.1.5",
         "news": {
+			"0.2.0": {
+				"en": "Update gauge.js to version 2.1.7",
+				"de": "Update auf gauge.js version 2.1.7"
+			},
             "0.1.5": {
                 "en": "do not scan DOM at start",
                 "de": "Skäniere DOM nicht beim Start",
