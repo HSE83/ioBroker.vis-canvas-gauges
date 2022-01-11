@@ -1,7 +1,7 @@
 {
     "common": {
         "name": "vis-canvas-gauges",
-        "version": "0.1.5",
+        "version": "0.2.0",
         "news": {
 			"0.2.0": {
 				"en": "Update gauge.js to version 2.1.7",
@@ -54,7 +54,8 @@
         ],
         "readme": "https://github.com/ioBroker/ioBroker.vis-canvas-gauges/blob/master/README.md",
         "authors": [
-            "bluefox <dogafox@gmail.com>"
+            "bluefox <dogafox@gmail.com>",
+            "HSE <hse@hagemeier.org>"
         ],
         "localLink": "%web_protocol%://%ip%:%web_port%/vis/edit.html",
         "license": "MIT",
